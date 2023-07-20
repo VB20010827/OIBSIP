@@ -22,13 +22,13 @@ To run the application locally on your machine, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone https://github.com/VB20010827/OIBSIP.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd todo-list
+cd TODO_list.HTML
 ```
 
 3. Open the `todo.html` file in your web browser.
